@@ -18,6 +18,8 @@ This project is designed to solve a real industry problem: **unreliable data pip
 ## Architecture
 **Data Sources → Kafka → Spark Structured Streaming → Validation & Anomaly Detection → Storage / Warehouse → Dashboard**
 
+![DRIP Architecture](./diagrams/drip-architecture.png)
+
 ## Key KPIs
 - pipeline latency
 - data quality score
