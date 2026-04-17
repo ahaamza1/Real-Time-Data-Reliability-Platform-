@@ -1,0 +1,24 @@
+DRIP Architecture Diagram
+
+Data Sources / Transactions
+        ↓
+      Kafka
+        ↓
+Spark Structured Streaming
+ - Parsing
+ - Schema Validation
+ - Data Quality Checks
+ - Anomaly Detection
+        ↓
+ Storage / Warehouse
+ - Valid Records
+ - Invalid Records
+ - Anomalies
+ - Pipeline Metrics
+        ↓
+Dashboard / Monitoring
+ - Latency
+ - Throughput
+ - Failure Rate
+ - Data Quality Score
+ - Alerts
