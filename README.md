@@ -1,6 +1,6 @@
 # 🚖 RideFusion: End-to-End Real-Time Ride Analytics Platform
 
-<img width="1536" height="1024" alt="archeticture " src="https://github.com/user-attachments/assets/66813a55-651c-4918-8489-b67eff38b6f5" />
+![Uploading archeticture .png…]()
 
 
 <p align="center">
